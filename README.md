@@ -53,7 +53,7 @@ make
 ## Usage
 You can now run the executable with a map file from the maps folder:
 ```
-./cub3d maps/example.cub
+./cub3D resources/valid_map_1.cub
 ```
 
 Map File Format
