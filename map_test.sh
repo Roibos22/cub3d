@@ -2,10 +2,6 @@
 
 # List of map paths
 map_paths=(
-    "resources/valid_map_1.cub"
-    "resources/valid_map_2.cub"
-    "resources/valid_map_3.cub"
-    "resources/valid_map_4.cub"
     "resources/error_map_borders.cub"
     "resources/error_map_chars_on_line.cub"
     "resources/error_map_chars.cub"
@@ -24,6 +20,10 @@ map_paths=(
     "resources/error_map_spaces_on_line.cub"
     "resources/error_map_wrong_identifier.cub"
     "resources/error_map_wrong_texture.cub"
+    "resources/valid_map_1.cub"
+    "resources/valid_map_2.cub"
+    "resources/valid_map_3.cub"
+    "resources/valid_map_4.cub"
 )
 
 # Loop through each map path
