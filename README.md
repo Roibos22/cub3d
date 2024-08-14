@@ -39,7 +39,7 @@ This project not only tests coding skills but also demands a deep understanding 
 
 1. Clone the repository
 ```
-git clone https://github.com/your-username/cub3d.git
+git clone https://github.com/Roibos22/cub3d.git
 ```
 2. Navigate to the project directory
 ```
