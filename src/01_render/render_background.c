@@ -44,9 +44,9 @@ void	render_shader(unsigned int	*background, int x, int y)
 	float	distance;
 
 	if (y <= WINDOW_H / 2)
-		distance = (float)(20 * y) / (float)(WINDOW_H - 70);
+		distance = (float)(15 * y) / (float)(WINDOW_H - 60);
 	else
-		distance = 20.0f - ((float)(20 * y + 35) / (float)(WINDOW_H));
+		distance = 15.0f - ((float)(15 * y + 20) / (float)(WINDOW_H));
 	color = COLOR_SHADOW;
 	if (distance >= PLAYER_VIEW_DISTANCE)
 		background[y * WINDOW_W + x] = color;
