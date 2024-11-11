@@ -11,7 +11,7 @@
 8. [Acknowledgements](#acknowledgements)
 
 ## Project Overview
-[cub3D_demo.webm](https://github.com/user-attachments/assets/14c03d18-918f-489f-8d23-72237e55ac3f)
+[cub3D_demo.webm](https://github.com/user-attachments/assets/5d38f6a3-9fe9-42dd-84eb-fab030d2650f)
 
 Cub3d is an immersive 3D maze explorer game developed as part of the 42 school curriculum. This project challenged us to recreate the classic first-person perspective of Wolfenstein 3D using raycasting techniques, pushing the boundaries of graphical programming and algorithmic thinking.
 
