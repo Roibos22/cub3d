@@ -39,6 +39,7 @@ This project not only tests coding skills but also demands a deep understanding 
 
 ## Installation Guide
 ### Prerequisites
+- linux
 - gcc compiler
 - Make
 
